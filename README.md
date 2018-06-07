@@ -12,7 +12,7 @@ Salary has highest center
 
 
 2. Which measure of center is more appropriate for before and after?
-
+ANSWER: Boxplot
 boxplot(RcmdrTestDrive$before, RcmdrTestDrive$after,
         names = c("Before","After"),
         main="Boxplots Comparing Before & After", 
